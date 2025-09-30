@@ -32,8 +32,8 @@ Monthly/Quarterly Growth
 
 Profit Margins (if applicable)
 
-**How to Use
-**
+**How to Use**
+
 Open the Power BI Desktop 
 
 Use the date slicer to filter data by time period.
