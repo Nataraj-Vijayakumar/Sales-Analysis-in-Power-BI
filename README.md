@@ -3,6 +3,9 @@
 
 The Sales Dashboard is a dynamic and interactive Power BI report designed to provide insights into sales performance, trends, and key metrics across different products, regions, and time periods. This dashboard helps stakeholders make data-driven decisions and monitor sales performance in real-time.
 
+<img width="1301" height="718" alt="image" src="https://github.com/user-attachments/assets/da6a81c3-0098-4d88-b0ca-b99c70b76ddb" />
+
+
 **Features**
 
 Sales Overview: View total sales, revenue, and growth trends over time.
@@ -53,5 +56,4 @@ Name: Nataraj V
 
 Contact : 9500030697
 
-<img width="1301" height="718" alt="image" src="https://github.com/user-attachments/assets/8f234508-745b-4b34-8031-5bb9845c3137" />
 
